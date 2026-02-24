@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vtu26671/Applied-programming-skills/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu26671/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/vtu26671/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu26671/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu26671/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu26671/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu26671/Applied-programming-skills/tree/master/0867-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/vtu26671/Applied-programming-skills/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
