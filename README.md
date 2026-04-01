@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu26671/Applied-programming-skills/tree/master/0155-min-stack) |
+| [0641-design-circular-deque](https://github.com/vtu26671/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0641-design-circular-deque](https://github.com/vtu26671/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/vtu26671/Applied-programming-skills/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/vtu26671/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
