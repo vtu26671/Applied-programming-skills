@@ -58,14 +58,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu26671/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu26671/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+## Array
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
