@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/vtu26671/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26671/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/vtu26671/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26671/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -36,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/vtu26671/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/vtu26671/Applied-programming-skills/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26671/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26671/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
