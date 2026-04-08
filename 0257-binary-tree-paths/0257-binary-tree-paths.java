@@ -15,33 +15,29 @@
  */
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> result = new ArrayList<>();
+        List<String> paths = new ArrayList<>();
         if (root != null) {
-            dfs(root, "", result);
+            dfs(root, "", paths);
         }
-        return result;
+        return paths;
     }
 
-    private void dfs(TreeNode node, String path, List<String> result) {
-        // Append current node value to the path
-        if (path.isEmpty()) {
-            path += node.val;
-        } else {
-            path += "->" + node.val;
-        }
+    private void dfs(TreeNode node, String currentPath, List<String> paths) {
+        // Append the current node's value to the path
+        currentPath += node.val;
 
-        // If it's a leaf, add path to results
+        // If it's a leaf node, add the completed path to our list
         if (node.left == null && node.right == null) {
-            result.add(path);
+            paths.add(currentPath);
             return;
         }
 
-        // Otherwise, continue traversing
+        // If not a leaf, continue exploring children with the "->" separator
         if (node.left != null) {
-            dfs(node.left, path, result);
+            dfs(node.left, currentPath + "->", paths);
         }
         if (node.right != null) {
-            dfs(node.right, path, result);
+            dfs(node.right, currentPath + "->", paths);
         }
     }
 }
