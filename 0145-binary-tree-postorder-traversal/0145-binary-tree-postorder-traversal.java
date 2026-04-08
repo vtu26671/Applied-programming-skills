@@ -1,24 +1,15 @@
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        LinkedList<Integer> result = new LinkedList<>();
-        if (root == null) return result;
-
-        Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
-
-        while (!stack.isEmpty()) {
-            TreeNode node = stack.pop();
-            // Always add to the front to reverse the order
-            result.addFirst(node.val);
-
-            // Push left first so right is processed first (for the reversal)
-            if (node.left != null) {
-                stack.push(node.left);
-            }
-            if (node.right != null) {
-                stack.push(node.right);
-            }
-        }
+        List<Integer> result = new ArrayList<>();
+        helper(root, result);
         return result;
+    }
+
+    private void helper(TreeNode node, List<Integer> result) {
+        if (node == null) return;
+        
+        helper(node.left, result);  // Left
+        helper(node.right, result); // Right
+        result.add(node.val);       // Root
     }
 }
