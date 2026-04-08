@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26671/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/vtu26671/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 ## Greedy
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu26671/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu26671/Applied-programming-skills/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
